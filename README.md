@@ -1,7 +1,7 @@
 ### Hello! I'm Emily Chiu! 👋
 
 - :mortar_board: I am an incoming 1A Computer Science student at the University of Waterloo!
-- I am the social media coordinator of <a href="https://kurius.ca">Kurius</a>!
+- <img src="https://avatars.githubusercontent.com/u/55967493?s=200&v=4" alt="kurius" width="25" height="25"/>I am the social media coordinator of <a href="https://kurius.ca">Kurius</a>!
 - 🔭 I'm currently working on <a href="https://hackitforward.com">HackItForward</a> and finishing my hackathon project, Langr!
 - 🌱 I'm currently learning Game Development with Unity and taking the CS50 Artificial Intelligence course!
 - ⚡ In my free time, I like to play badminton, draw, read, and write! (I like to code too!)
