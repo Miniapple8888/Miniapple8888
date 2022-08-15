@@ -1,4 +1,4 @@
-### Hello! I'm Emily Chiu! 👋
+### Hello! 👋
 
 - :mortar_board: I am a 2A Computer Science student at the University of Waterloo!
 - 💻 I am a frontend developer @ the [Computer Science Club of Waterloo](https://csclub.uwaterloo.ca/)!
