@@ -6,7 +6,6 @@
 - 🔭 I'm currently working on <a href="https://hackitforward.com">HackItForward</a> and finishing my personal project, [MealTime](https://github.com/Miniapple8888/MealTime)!
 - 🌱 I'm currently learning Game Development with Unity and following [UWARG](https://uwarg.com)'s Computer Vision bootcamp!
 - ⚡ Aside from coding, in my free time, I like to go to the gym, play badminton, draw, read thrillers and philosophical books, and write!
-- 🔗 Visit my website at [emilychiu.tech](https://emilychiu.tech)!
 
 ### Languages and Tools
 <p align="left">
