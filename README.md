@@ -1,10 +1,9 @@
-### Hello! 👋
+### Hello! I'm Mark! 👋
 
-- :mortar_board: I am a 2A Computer Science student at the University of Waterloo!
+- :mortar_board: I am a 2B Computer Science student at the University of Waterloo!
 - 💻 I am a frontend developer @ the [Computer Science Club of Waterloo](https://csclub.uwaterloo.ca/)!
-- <img src="https://avatars.githubusercontent.com/u/55967493?s=200&v=4" alt="kurius" width="25" height="25"/>I am also one of the Graphic Designers of <a href="https://kurius.ca">Kurius</a>!
-- 🔭 I'm currently working on <a href="https://hackitforward.com">HackItForward</a> and finishing my personal project, [MealTime](https://github.com/Miniapple8888/MealTime)!
-- 🌱 I'm currently learning Game Development with Unity and following [UWARG](https://uwarg.com)'s Computer Vision bootcamp!
+- <img src="https://avatars.githubusercontent.com/u/55967493?s=200&v=4" alt="kurius" width="25" height="25"/>I am also a former Graphic Designers of <a href="https://kurius.ca">Kurius</a>!
+- 🌱 I'm currently learning Rust, Game Development with Unity and following [UWARG](https://uwarg.com)'s Computer Vision bootcamp!
 - ⚡ Aside from coding, in my free time, I like to go to the gym, play badminton, draw, read thrillers and philosophical books, and write!
 
 ### Languages and Tools
