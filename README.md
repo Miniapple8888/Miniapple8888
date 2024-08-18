@@ -8,8 +8,8 @@
 
 Tech stack:
 
-* Language: Python, C++, Typescript, Solidity, C#, Java, Rust, HTML/CSS, PHP, Ruby, SQL, Bash
-* Tool/Framework: Ruby on Rails, Django, PyTorch, Pandas, NumPy, scikit-learn, Azure, Docker, React, React Native
+* Language: Python, C++, Golang, Typescript, Solidity, C#, Java, Rust, HTML/CSS, PHP, Ruby, SQL, Bash
+* Tool/Framework: Ruby on Rails, Django, WebRTC, PyTorch, ROS2, Pandas, NumPy, scikit-learn, Azure, Docker, React, React Native
 
 
 Connect with me through [Linkedin](https://www.linkedin.com/in/markchiu02/)
